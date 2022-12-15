@@ -1,0 +1,22 @@
+{
+  "name": "year-to-albanian",
+  "version": "1.0.2",
+  "description": "Convert years into albanian language",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weteak/convert-year-to-albanianLng.git"
+  },
+  "keywords": [
+    "YTA"
+  ],
+  "author": "Klisman Necaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weteak/convert-year-to-albanianLng/issues"
+  },
+  "homepage": "https://github.com/weteak/convert-year-to-albanianLng#readme"
+}
