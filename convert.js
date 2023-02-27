@@ -48,7 +48,7 @@ const numbers = {
         }
       }
   
-      return words.join(' e ');
+      return words.join('e');
     }
   }
   
