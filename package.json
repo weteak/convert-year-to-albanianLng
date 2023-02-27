@@ -1,7 +1,7 @@
 {
-  "name": "year-to-albanian",
-  "version": "1.0.2",
-  "description": "Convert years into albanian language",
+  "name": "numbers-to-albanian",
+  "version": "2.0.0",
+  "description": "Convert numbers into albanian language",
   "main": "convert.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
