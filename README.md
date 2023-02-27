@@ -2,4 +2,6 @@
 # Shembull - 2022  -> dy mije e njezet e dy
 # Kujdes -> Vlerat mbi 4 shifrore nuk kontrollohen ose ato me te vogla se dy
 
+# npm i year-to-albanian
+
 
