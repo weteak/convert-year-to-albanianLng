@@ -51,6 +51,9 @@ const numbers = {
       return words.join('e');
     }
   }
+
+module.exports = convertNumberToWords
+
   
  
   
